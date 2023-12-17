@@ -17,8 +17,8 @@ All the listed models can be found in `TrainedModels` directory.
 | CIFAR10 | VGG16 |         100×        |     100×     |       kernel      |               -                 |          -          |  92.11%  |
 | CIFAR10 | VGG16 |         500×        |     500×     |       kernel      |               -                 |          -          |  88.28%  |
 |         |       |                     |              |                   |                                 |                     |          |
-| CIFAR10 | VGG16 |         8000×       |     1000×    |    unstructured   |              4/8×               |          1          |  88.59%  |
-| CIFAR10 | VGG16 |         16000×      |     1000×    |    unstructured   |              2/16×              |          64         |  87.93%  |
+| CIFAR10 | VGG16 |         8000×       |     1000×    |    unstructured   |              4/8×               |          1          |  88.22%  |
+| CIFAR10 | VGG16 |         16000×      |     1000×    |    unstructured   |              2/16×              |          64         |  87.86%  |
 
 # Testing the Models
 A simple starter code is provided in `ModelEval.py` to assist with loading, testing, and exploring the compressed trained models.
