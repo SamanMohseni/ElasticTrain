@@ -12,7 +12,7 @@ All the listed models can be found in `TrainedModels` directory.
 | ------- | ----- | ------------------- | ------------ | ----------------- | ------------------------------- | ------------------- | -------- |
 | CIFAR10 | VGG16 |         50×         |     50×      |    unstructured   |               -                 |          -          |  93.26%  |
 | CIFAR10 | VGG16 |         500×        |     500×     |    unstructured   |               -                 |          -          |  91.17%  |
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+|         |       |                     |              |                   |                                 |                     |          |
 | CIFAR10 | VGG16 |         100×        |     100×     |       kernel      |               -                 |          -          |  92.25%  |
 | CIFAR10 | VGG16 |         500×        |     500×     |       kernel      |               -                 |          -          |  88.59%  |
 |         |       |                     |              |                   |                                 |                     |          |
